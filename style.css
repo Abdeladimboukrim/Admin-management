@@ -1,0 +1,16 @@
+nav{
+    background-color: aqua;
+    display: flex; 
+}
+
+.navbar h2{
+  margin: 0 auto;
+  height: 60px;
+}
+
+.container{
+    background-color: blue;
+    height:35em;
+    width: 23%;
+    border-radius: 0 80px 0 0;
+}

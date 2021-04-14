@@ -2,11 +2,14 @@
 .devision{
 background-color: blue;
 height: 4rem;
-
 text-align: center;
 }
 .left{
-    background-color: chartreuse;
-    height: 32rem;
+    background-color: chartreuse; 
     width: 25rem;
+}
+.select{
+    
+display: inline;
+
 }
